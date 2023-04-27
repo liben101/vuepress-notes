@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Daily","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1682594755000,"contributors":[{"name":"ben.li","email":"53158397+beni-code@users.noreply.github.com","commits":3},{"name":"liben","email":"714376485@qq.com","commits":2}]},"filePathRelative":"README.md"}');export{e as data};
